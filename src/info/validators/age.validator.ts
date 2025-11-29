@@ -33,6 +33,6 @@ export class AgeMatchValidator implements ValidatorConstraintInterface {
 
   defaultMessage() {
     // message to show on validation error
-    return 'La data di nascita non corrisponde all’età';
+    return 'Date of birth must match age insert.';
   }
 }
