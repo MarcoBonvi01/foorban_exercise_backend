@@ -1,3 +1,5 @@
+// define the interface for the request
+
 export interface UpdateInfoRequest {
   name: string;
   age: number;
